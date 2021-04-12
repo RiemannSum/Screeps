@@ -1,1 +1,5 @@
-console.log(123)
+var epoch = {
+	
+}
+
+module.exports = epoch;
